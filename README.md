@@ -1,5 +1,5 @@
 # 📊 Feature Extraction and Communication Analytics System
-### a Beauty – Machine Learning Specialist Technical Assignment
+
 
 A Python-based pipeline that extracts and analyzes communication quality features from YouTube tutorial videos using transcript data and video metadata. Computes measurable linguistic and engagement metrics to generate a **Composite Communication Score (0–10)** for each video.
 
